@@ -1,0 +1,34 @@
+
+<div class="container-fluid">
+    <h2 class="text-center">Field your new Quote</h2>
+    <hr>
+    <form (ngSubmit)='submitQuote()' #quoteForm='ngForm'>
+        <div class="form-group">
+            <div class="form-group">
+                <label for="name" class="fs-6 fw-bolder">Quote;</label>
+                <input type="text" class="form-control" placeholder="Enter Quote..." id="name" [(ngModel)]="newQuotes.name" name=" name " #name='ngModel' required>
+                <div [hidden]="name.valid || name.pristine " class="alert alert-danger ">
+                    <p>Quote is required in this field</p>
+
+                </div>
+            </div>
+            <br>
+            <div class="form-group">
+                <label for="description" class="fs-6 fw-bolder">Author;</label>
+                <input class="form-control" placeholder="Enter Author's Name..." id="detail" [(ngModel)]="newQuotes.author " name="detail" #detail="ngModel" required>
+                <div [hidden]="detail.valid || detail.pristine " class="alert alert-danger ">
+                    <p>Author's Name is requiredin this field </p>
+                </div>
+            </div>
+            <br>
+            <div class="form-group ">
+                <label for="description" class="fs-6 fw-bolder">Name;</label>
+                <input class="form-control" placeholder="Enter Your Name..." id="detail" [(ngModel)]="newQuotes.detail" name="detail" #detail="ngModel" required>
+                <div [hidden]="detail.valid || detail.pristine " class="alert alert-danger ">
+                    <p>Author's Name is required in this field </p>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-success btn-lg" [disabled]="!quoteForm.valid">Add Quote</button>
+        </div>
+    </form>
+</div>
