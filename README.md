@@ -1,6 +1,8 @@
 # Quote1
+A web application built using AngularJs that allows users to generate quotations and vote on whether they are bad or inspirational.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+[KIPKEMOI RONO ELVIS](https://github.com/DynastyElvis)
 
 ## Development server
 
