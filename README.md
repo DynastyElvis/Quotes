@@ -58,17 +58,26 @@ css, html, typescript, javascript
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+[Go Back to the top](#Quote1)
+
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+[Go Back to the top](#Quote1)
 
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+[Go Back to the top](#Quote1)
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+[Go Back to the top](#Quote1)
 
 ## Reference
 https://www.youtube.com/watch?v=D-h8L5hgW-w
@@ -81,7 +90,7 @@ https://materializecss.com/
 
 https://www.codegrepper.com/app/index.php
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Quote1)
 
 ## Licence
 
@@ -89,13 +98,16 @@ https://www.codegrepper.com/app/index.php
 
 2022
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Quote1)
 
 ## Known Bugs
 
 No Known Bugs.
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Quote1)
 
 ## Authors Info
 LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa3548209/)
+
+[Go Back to the top](#Quote1)
+
