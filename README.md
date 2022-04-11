@@ -9,17 +9,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 *[Development server](#Development-server)
 
-*[Code scaffolding](Code-scaffolding)
+*[Code scaffolding](#Code-scaffolding)
 
 *[Technology Used](#Technology-Used)
 
-*[Build](Build)
+*[Build](#Build)
 
-*[Running unit tests](Running-unit-tests)
+*[Running unit tests](#Running-unit-tests)
 
-*[Running end-to-end tests](Running-end-to-end-tests)
+*[Running end-to-end tests](#Running-end-to-end-tests)
 
-*[Further help](Further-help)
+*[Further help](#Further-help)
 
 *[Reference](#Reference)
 
