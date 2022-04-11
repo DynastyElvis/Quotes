@@ -11,8 +11,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 *[Code scaffolding](Code-scaffolding)
 *[Build](Build)
 *[Running unit tests](Running-unit-tests)
-*[]()
-*[]()
+*[Running end-to-end tests](Running end-to-end tests)
+*[Further help](Further-help)
 *[]()
 
 ## Development server
