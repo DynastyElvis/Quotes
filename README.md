@@ -17,7 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 *[Running unit tests](Running-unit-tests)
 
-*[Running end-to-end tests](Running-end-to-end tests)
+*[Running end-to-end tests](Running-end-to-end-tests)
 
 *[Further help](Further-help)
 
