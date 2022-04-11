@@ -11,6 +11,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 *[Code scaffolding](Code-scaffolding)
 
+*[Technology Used](#Technology-Used)
+
 *[Build](Build)
 
 *[Running unit tests](Running-unit-tests)
@@ -28,6 +30,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Technology-Used
+Angular
+css, html, typescript, javascript
 
 ## Build
 
