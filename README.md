@@ -5,6 +5,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [KIPKEMOI RONO ELVIS](https://github.com/DynastyElvis)
 
+## Table of Contents
+
+*[Development server](#Development-server)
+*[Code scaffolding](Code-scaffolding)
+*[Build](Build)
+*[Running unit tests](Running-unit-tests)
+*[]()
+*[]()
+*[]()
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
