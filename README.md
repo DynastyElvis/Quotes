@@ -21,7 +21,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 *[Further help](Further-help)
 
-*[]()
+*[Reference](#Reference)
+
+
+*[Licence](#Licence)
+
+
+*[Known Bugs](#Known-Bugs)
+
+
+*[Authors Info](#Authors-Info)
+
 
 ## Development server
 
@@ -50,3 +60,33 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Reference
+https://www.youtube.com/watch?v=D-h8L5hgW-w
+
+https://moringaschool.instructure.com/ 
+
+https://www.w3schools.com/html/
+
+https://materializecss.com/
+
+https://www.codegrepper.com/app/index.php
+
+[Go Back to the top](#PIZZA-Palace)
+
+## Licence
+
+[MIT LICENCE](https://github.com/DynastyElvis/PIZZA-Palace/blob/main/LICENSE)
+
+2022
+
+[Go Back to the top](#PIZZA-Palace)
+
+## Known Bugs
+
+No Known Bugs.
+
+[Go Back to the top](#PIZZA-Palace)
+
+## Authors Info
+LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa3548209/)
