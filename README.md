@@ -148,7 +148,7 @@ No Known Bugs.
 ## Ecosystem
 
 <p>
-  <img src="/docs/images/angular-ecosystem-logos.png" alt="angular ecosystem logos" width="500px" height="auto">
+  <img src="https://raw.githubusercontent.com/angular/angular/master/docs/images/angular-ecosystem-logos.png" alt="angular ecosystem logos" width="500px" height="auto">
 </p>
 
 - [Angular Command Line (CLI)][cli]
