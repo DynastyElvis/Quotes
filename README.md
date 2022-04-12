@@ -151,8 +151,8 @@ No Known Bugs.
   <img src="https://raw.githubusercontent.com/angular/angular/master/docs/images/angular-ecosystem-logos.png" alt="angular ecosystem logos" width="500px" height="auto">
 </p>
 
-- [Angular Command Line (CLI)][cli]
-- [Angular Material][angularmaterial]
+- [Angular Command Line (CLI)][https://cli.angular.io/]
+- [Angular Material][https://material.angular.io/]
 
 
 ## Authors Info
