@@ -145,6 +145,16 @@ No Known Bugs.
 
 [Go Back to the top](#Quote1)
 
+## Ecosystem
+
+<p>
+  <img src="/docs/images/angular-ecosystem-logos.png" alt="angular ecosystem logos" width="500px" height="auto">
+</p>
+
+- [Angular Command Line (CLI)][cli]
+- [Angular Material][angularmaterial]
+
+
 ## Authors Info
 LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa3548209/)
 
